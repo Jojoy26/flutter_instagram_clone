@@ -1,16 +1,23 @@
-# flutter_instagram
+## flutter_instagram
 
-A new Flutter project.
+Clone do instagram usando flutter.
 
-## Getting Started
+## Tecnologias
 
-This project is a starting point for a Flutter application.
+Front-end: Flutter
+Back-end: Node js
 
-A few resources to get you started if this is your first Flutter project:
+### Descrição
+App com tratamento de erros na UI. <br/>
+Autenticação com token JWT.
+Seleção de imagens da galeria ou da câmera <br/>
+Pesquisa de usúarios <br/>
+Ação de curtir ou descurtir um postagem <br/>
+Animação ao curtir e descurtir <br/>
+Ação de comentar em um post <br/>
+Seguir e deixar de seguir <br/>
+Ação de postar no feed <br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/92484797/158368028-6fe8b30b-56a7-4bd0-a2ed-603ddd9a893c.gif" height="650px"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/92484797/158368292-76e42c62-33e9-472e-9ea4-3bf6178ac29c.gif" height="650px"/>
