@@ -9,7 +9,7 @@ Back-end: Node js
 
 ### Descrição
 App com tratamento de erros na UI. <br/>
-Autenticação com token JWT.
+Autenticação com token JWT.<br/>
 Seleção de imagens da galeria ou da câmera <br/>
 Pesquisa de usúarios <br/>
 Ação de curtir ou descurtir um postagem <br/>
